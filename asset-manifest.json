@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shortlisted-aliens/static/css/main.a1df1d4f.css",
+    "main.js": "/shortlisted-aliens/static/js/main.aeb1b645.js",
+    "static/js/787.5cc408aa.chunk.js": "/shortlisted-aliens/static/js/787.5cc408aa.chunk.js",
+    "index.html": "/shortlisted-aliens/index.html",
+    "main.a1df1d4f.css.map": "/shortlisted-aliens/static/css/main.a1df1d4f.css.map",
+    "main.aeb1b645.js.map": "/shortlisted-aliens/static/js/main.aeb1b645.js.map",
+    "787.5cc408aa.chunk.js.map": "/shortlisted-aliens/static/js/787.5cc408aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1df1d4f.css",
+    "static/js/main.aeb1b645.js"
+  ]
+}
